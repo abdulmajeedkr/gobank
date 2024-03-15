@@ -1,1 +1,1 @@
-a JSON api with the help pf anthony GG's youtube channel .
+a JSON api with the help of anthony GG's youtube channel .
